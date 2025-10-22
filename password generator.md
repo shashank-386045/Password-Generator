@@ -184,6 +184,10 @@ function getRandomSymbol() {
     return symbols[Math.floor(Math.random() * symbols.length)];
 }
 ```
+output:
+<img width="935" height="891" alt="Screenshot 2025-10-22 193700" src="https://github.com/user-attachments/assets/31c11f33-ce97-431b-80fc-29cbbaec531a" />
+
+```
 ## result:
 The password generator project creates a secure, random password based on user-defined criteria (such as length and character types), using a simple web form and client-side scripting.
 
